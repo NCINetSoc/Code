@@ -1,5 +1,11 @@
+<!DOCTYPE html>
 <html> 
   <head>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+  <meta charset="UTF-8">
+  <meta name="description" content="National College of Irelands Network Society website">
+  <meta name="author" content="NCI NetSoc">
    <link rel="stylesheet" type="text/css" href="site.css"/>
     <title>NCI NetSoc</title> 
   </head>
