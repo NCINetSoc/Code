@@ -3,5 +3,38 @@
     <title>NCI NetSoc</title> 
   </head>
   <body> 
+  
+  <div id="header">
+  <ul>
+      <li><a href="index.html">Home</a></li> 
+          <li><a href="events.html">Events</a></li>
+          <li><a href="workshops.html">Workshops</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="Contact.html">Contact</a></li>
+  </ul>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <footer>
+<div id="footer">
+  <ul>
+      <li><a href="index.html">Home</a> | </li> 
+          <li><a href="events.html">Events</a> | </li>
+          <li><a href="workshops.html">Workshops</a> | </li>
+          <li><a href="about.html">About</a> | </li>
+          <li><a href="Contact.html">Contact</a></li>
+  </ul>
+  <p>Copyright 2014 © NCI NetSoc</p>
+</div>
+</footer>
   </body> 
 </html> 
