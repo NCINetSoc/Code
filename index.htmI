@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html> 
   <head>
+  <! This is where the scripts will go>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-
       <meta charset="UTF-8">
       <meta name="description" content="National College of Irelands Network Society website">
       <meta name="author" content="NCI NetSoc">
