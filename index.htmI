@@ -8,6 +8,8 @@
       <meta name="author" content="NCI NetSoc">
       <meta name="keywords" content="NCI,NetSoc,Societes,Networking">
       <meta http-equiv="refresh" content="300">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
       <link rel="stylesheet" type="text/css" href="site.css"/>
     
     <title>NCI NetSoc</title> 
