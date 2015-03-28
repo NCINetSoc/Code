@@ -20,3 +20,26 @@ body {
    background: "images/Footer.jpg"; /*This will be that absolute monster of a fucking footer*/
    
 }
+
+#team-carousel{
+	margin-top:60px;
+}
+
+#team-box {
+	overflow: hidden;
+	text-align: center;
+	background: none repeat scroll 0% 0% #FFF;
+}
+
+.team-image img {
+    width: 100% !important;
+}
+
+.team-desc {
+    padding: 15px;
+}
+
+.title-area {
+    text-align: center;
+    margin-bottom: 20px;
+}
