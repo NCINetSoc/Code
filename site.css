@@ -38,8 +38,38 @@ body {
 .team-desc {
     padding: 15px;
 }
-
 .title-area {
     text-align: center;
     margin-bottom: 20px;
 }
+/* form styles */
+.formColor{
+  background: #eeeeee;
+}
+#inlineChckBox{
+  display: inline;
+}
+.NetscCol{
+  color:#317eac;
+}
+.formHeight{
+  height: 565px !important;
+}
+.height{
+  height: 50px;
+}
+#subBtn{
+   width:200px;
+}
+/* change the style of the button on hoover */
+#subBtn:hover{
+   width:200px;
+   background:#317eac;
+   color:white;
+}
+
+.topMarg{
+  height: 30px;
+}
+
+
