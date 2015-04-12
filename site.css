@@ -46,8 +46,9 @@ body {
 .formColor{
   background: #eeeeee;
 }
-#inlineChckBox{
+.inlineChckBox{
   display: inline;
+
 }
 .NetscCol{
   color:#317eac;
@@ -60,12 +61,15 @@ body {
 }
 #subBtn{
    width:200px;
+   background:#317eac;
+    color:white;
 }
 /* change the style of the button on hoover */
 #subBtn:hover{
    width:200px;
-   background:#317eac;
-   color:white;
+   background:white;
+   color:#317eac;
+    border: 1px solid;
 }
 
 .topMarg{
